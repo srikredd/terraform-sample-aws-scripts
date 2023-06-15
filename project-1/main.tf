@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIAVG5EZGGLGKLTYAVG"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 resource "aws_instance" "first-ter-server" {
